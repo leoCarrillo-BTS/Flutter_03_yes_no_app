@@ -17,6 +17,7 @@ Features:
 - Showing netowrk images on UI
 
 <img width="361" alt="Screenshot 2024-02-01 at 14 30 03" src="https://github.com/leoCarrillo-BTS/Flutter_03_yes_no_app/assets/60411044/f626771d-adcc-4876-a64d-1879bba5b418">
+
 [Video here](https://drive.google.com/file/d/1sN3pLeelIdS7X5Y-MaAeujm0RY1KefKd/view?usp=drive_link)
 
 ## Getting Started
